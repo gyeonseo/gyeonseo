@@ -10,15 +10,15 @@ For example, the objects in the following images were detected using [mmdetectio
 
 ---
 ### Dependecies (Level 3 Heading)
--python
--opencv-python
--tensorflow
--openmmlab
--package manager
+- python
+- opencv-python
+- tensorflow
+- openmmlab
+- package manager
 
 ### Installation
 In a bash terminal, run the following commands (*Do NOT actually run these commands in your computer*):
-`$ sudo apt update  
-$ conda create -n cv_detection  
-$ python --version  
+`$ sudo apt update\
+$ conda create -n cv_detectio\ 
+$ python --version\
 $ python example.py`
