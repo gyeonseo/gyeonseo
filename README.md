@@ -10,11 +10,11 @@ For example, the objects in the following images were detected using [mmdetectio
 
 ---
 ### Dependecies (Level 3 Heading)
-- python
-- opencv-python
-- tensorflow
-- openmmlab
-- package manager
+- python 1 
+- opencv-python 2
+- tensorflow 3 
+- openmmlab 4
+- package manager 5
 
 ### Installation
 In a bash terminal, run the following commands (*Do NOT actually run these commands in your computer*):
