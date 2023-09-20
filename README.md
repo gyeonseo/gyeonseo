@@ -19,7 +19,7 @@ For example, the objects in the following images were detected using [mmdetectio
 
 ### Installation
 In a bash terminal, run the following commands (*Do NOT actually run these commands in your computer*):<br>
-`$ sudo apt update  
-$ conda create -n cv_detectio  
-$ python --version  
+`$ sudo apt update  <br>
+$ conda create -n cv_detectio<br>
+$ python --version<br>
 $ python example.py`
