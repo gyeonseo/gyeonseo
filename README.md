@@ -41,13 +41,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gyeonseo&show_icons=true&theme=transparent"
-    width="45%"
-    alt="github stats"
-  />
-  <img
     src="https://render.gitanimals.org/farms/gyeonseo"
-    width="40%"
+    width="50%"
     alt="gitanimals farm"
   />
 </p>
